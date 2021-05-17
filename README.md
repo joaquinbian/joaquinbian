@@ -48,7 +48,7 @@
   <br />
 📷 Images:
   
-  <img src="screenshotsProjects/LandingPagePhoto.png" width="300"/>
+  <img src="screenshotsProjects/LandingPagePhoto.png" width="300" display="inline"/>
     
   <img src="screenshotsProjects/Photo2.png" width="300" display="inline"/>
   

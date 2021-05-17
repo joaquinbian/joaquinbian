@@ -46,7 +46,7 @@
   
   <img src="screenshotsProjects/LandingPagePhoto.png" width="300"/>
   
-  <img scr="screenshotsProjects/Photo1.png" width="300" />
+  <img src="screenshotsProjects/Photo1.png" width="300" />
   
 </p>
 </p>

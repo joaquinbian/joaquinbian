@@ -2,25 +2,25 @@
 - 🔭 I’m currently working on a project called FinanceApp for the Henry bootcamp
 -  🌱 There, i've learned this stack and i will be graduated as Full-Stack Developer!
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="70" height="70" display="inline" margin="20px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="70" height="70" display="inline" margin="20px"/ alt="html">
   
-  <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="70" height="70" display="inline" margin="20px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="70" height="70" display="inline" margin="20px" alt="css"/>
 
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="70" height="70" display="inline" margin="20px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="70" height="70" display="inline" margin="20px" alt="javascript"/>
   
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="70" height="70" display="inline" margin-right="20px"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="70" height="70" display="inline" margin-right="20px" alt="react"/>
   
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="70" height="70" display="inline" margin="20px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="70" height="70" display="inline" margin="20px" alt="redux" />
   
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="70" height="70" display="inline" margin="20px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="70" height="70" display="inline" margin="20px" alt="node"/>
   
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="70" height="70" display="inline" margin="20px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="70" height="70" display="inline" margin="20px" alt="express"/>
   
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="70" height="70" display="inline" margin="20px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="70" height="70" display="inline" margin="20px" alt="postgreSql"/>
   
-  <img src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" width="70" height="70" display="inline" margin="20px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" width="70" height="70" display="inline" margin="20px" alt="sequelize"/>
   
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="70" height="70" display="inline" margin="20px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="70" height="70" display="inline" margin="20px" alt="git"/>
 </p>
 
 - 🧙‍♂️ I'm a Front-end lover, i like to work technologies like Javascript, React and Redux 🧙‍♂️

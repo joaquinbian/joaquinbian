@@ -25,9 +25,9 @@
 
 - 🧙‍♂️ I'm a Front-end lover, i like to work technologies like Javascript, React and Redux 🧙‍♂️
 
-- 🤠I really enjoy to learn new things, and know that i can learn a lot of different stuff all the time keeps me motivated🤠
+- 🤠I really enjoy to learn new things, and know that i can learn a lot of different stuff all the time keeps me motivated 🤠
 
-- 
+- 🔜 I also want to learn new technologies such as React-Native, TypeScript and some mobile languajes like Kotlin, Swift or Java 🔜 
 
 
 <p>

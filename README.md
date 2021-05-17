@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a project called FinanceApp for the Henry bootcamp
 -  🌱 I’m currently learning Javascript, React, Redux, Express, Sequelize and Postgre. Also in the future i want to learn about mobile development 📱🖥️!
 <div>
-  <img src="logos/sequelizeLogo.png" width="200" display="inline" margin="20"/>
+  <img src="logos/sequelizeLogo.png" width="50" height="50" display="inline" margin="20"/>
   <img src="logos/JavascriptLogo.png" width="200" display="inline" margin="20"/>
 </div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinbian)](https://github.com/joaquinbian/github-readme-stats)

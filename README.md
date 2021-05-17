@@ -36,6 +36,18 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinbian)](https://github.com/joaquinbian/github-readme-stats)
   
 </p>
+
+<p>
+<h1 align="center">My projects!</h1>
+<p>
+  <h3> 📌 Trip-Mate</h3>
+  <p>With this App, you can you can organice your trip and search information about most of the countries in the world! Furthermore you can sort them by population and alphabetically. Also you can filter the countries by their continent and you can add activities that you want to do in a specific country and filter them by activity.
+🚀 Technologies implemented: React, Redux, CSS-Modules, Node-Express, Sequelize, PostgreSQL 
+  <img src="screenshotsProjects/Screenshot from 2021-05-11 21-30-12.png" />
+</p>
+</p>
+
+</p>
 <!--
 **joaquinbian/joaquinbian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

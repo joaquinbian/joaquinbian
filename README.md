@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 I'm Joaquin.
 - 🔭 I’m currently working on a project called FinanceApp for the Henry bootcamp
--  🌱 I’m currently doing a bootcamp where i learn this stack!
+-  🌱 I’m currently doing a bootcamp where i've learned this stack!
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="70" height="70" display="inline" margin="20px"/>
   
@@ -19,7 +19,7 @@
   
   <img src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" width="70" height="70" display="inline" margin="20px"/>
   
-  <img src="  https://cdn.worldvectorlogo.com/logos/git.svg" width="70" height="70" display="inline" margin="20px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="70" height="70" display="inline" margin="20px"/>
 </div>
 
 

@@ -45,6 +45,7 @@
 🚀 Technologies implemented: React, Redux, CSS-Modules, Node-Express, Sequelize, PostgreSQL 
   
   <img src="screenshotsProjects/LandingPagePhoto.png" width="300"/>
+  
   <img scr="screenshotsProjects/Photo1.png" width="300" />
   
 </p>

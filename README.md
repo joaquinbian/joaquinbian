@@ -10,6 +10,8 @@
   <img src="logos/PostgreSqlLogo.png" width="70" height="70" display="inline" margin="20px"/>
   <img src="logos/sequelizeLogo.png" width="70" height="70" display="inline" margin="20px"/>
 </div>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinbian)](https://github.com/joaquinbian/github-readme-stats)
 <!--
 **joaquinbian/joaquinbian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

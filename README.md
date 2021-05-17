@@ -1,6 +1,10 @@
 ### Hi there 👋
-- wave Hi, I'm Joaquin.
-- 🔭 I’m currently working on ...
+- 👋 I'm Joaquin.
+- 🔭 I’m currently working on a project called FinanceApp for the Henry bootcamp
+-  🌱 I’m currently learning Javascript, React, Redux, Express, Sequelize and Postgre. Also in the future i want to learn about mobile development 📱🖥️!
+
+![Alt text](/../<main>/home/cristian/Henry/PI-Countries/client/src/JavascriptLogo.png
+.png?raw=true "Optional Title")
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinbian)](https://github.com/joaquinbian/github-readme-stats)
 <!--
 **joaquinbian/joaquinbian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

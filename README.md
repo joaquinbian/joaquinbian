@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 👋 I'm Joaquin.
 - 🔭 I’m currently working on a project called FinanceApp for the Henry bootcamp
--  🌱 I’m currently doing a bootcamp where i've learned this stack!
-<div>
+-  🌱 I’m currently doing a bootcamp there i've learned this stack and i will be graduated as Full-Stack Developer!
+<p>
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="70" height="70" display="inline" margin="20px"/>
   
   <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="70" height="70" display="inline" margin="20px"/>
@@ -20,10 +20,14 @@
   <img src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" width="70" height="70" display="inline" margin="20px"/>
   
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="70" height="70" display="inline" margin="20px"/>
-</div>
+</p>
 
+<p>
+  <h1 align="center">My github stats</h1>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinbian)](https://github.com/joaquinbian/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinbian)](https://github.com/joaquinbian/github-readme-stats)
+  
+</p>
 <!--
 **joaquinbian/joaquinbian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

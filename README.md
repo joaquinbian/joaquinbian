@@ -6,7 +6,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="70" height="70" display="inline" margin="20px"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="70" height="70" display="inline" margin-right="20px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="70" height="70" display="inline" margin="20px"/>
-  <img src="logos/ExpressLogo.png" width="70" height="70" display="inline" margin="20px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="70" height="70" display="inline" margin="20px"/>
   <img src="logos/PostgreSqlLogo.png" width="70" height="70" display="inline" margin="20px"/>
   <img src="logos/sequelizeLogo.png" width="70" height="70" display="inline" margin="20px"/>
 </div>

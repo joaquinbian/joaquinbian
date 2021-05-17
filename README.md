@@ -40,7 +40,7 @@
 <p>
 <h1 align="center">My projects!</h1>
   <h3> 📌 Trip-Mate</h3>
-  <p>With this App, you can you can organice your trip and search information about most of the countries in the world! Furthermore you can sort them by population and alphabetically. Also you can filter the countries by their continent and you can add activities that you want to do in a specific country and filter them by activity. </P>
+  <p>With this App, you can you can organice your trip and search information about most of the countries in the world! Furthermore you can sort them by population and alphabetically. Also you can filter the countries by their continent and you can add activities that you want to do in a specific country and filter them by activity. </p>
   <br />
 🚀 Technologies implemented: React, Redux, CSS-Modules, Node-Express, Sequelize, PostgreSQL 
   <br />

@@ -23,9 +23,12 @@
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="70" height="70" display="inline" margin="20px"/>
 </p>
 
-<p>🧙‍♂️ I'm a Front-end lover, i like to work technologies like Javascript, React and Redux 🧙‍♂️ </p>
+- 🧙‍♂️ I'm a Front-end lover, i like to work technologies like Javascript, React and Redux 🧙‍♂️
 
-<p><p/>
+- 🤠I really enjoy to learn new things, and know that i can learn a lot of different stuff all the time keeps me motivated🤠
+
+- 
+
 
 <p>
   <h1 align="center">My github stats</h1>

@@ -47,6 +47,16 @@
   
   <img src="screenshotsProjects/Photo1.png" width="300" />
   
+  <img src="screenshotsProjects/Photo2.png" width="300" />
+  
+  <img src="screenshotsProjects/Photo3.png" width="300" />
+  
+  <img src="screenshotsProjects/Photo4.png" width="300" />
+  
+  <img src="screenshotsProjects/Photo5.png" width="300" />
+  
+  <img src="screenshotsProjects/Photo6.png" width="300" />
+  
 
 </p>
 

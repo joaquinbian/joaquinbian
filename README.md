@@ -4,7 +4,7 @@
 -  🌱 I’m currently doing a bootcamp where i learn this stack!
 <div>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="70" height="70" display="inline" margin="20px"/>
-  <img src="logos/ReactLogo.png" width="70" height="70" display="inline" margin-right="20px"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="70" height="70" display="inline" margin-right="20px"/>
   <img src="logos/ReduxLogo.png" width="70" height="70" display="inline" margin="20px"/>
   <img src="logos/ExpressLogo.png" width="70" height="70" display="inline" margin="20px"/>
   <img src="logos/PostgreSqlLogo.png" width="70" height="70" display="inline" margin="20px"/>

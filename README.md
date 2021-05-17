@@ -1,10 +1,14 @@
 ### Hi there 👋
 - 👋 I'm Joaquin.
 - 🔭 I’m currently working on a project called FinanceApp for the Henry bootcamp
--  🌱 I’m currently learning Javascript, React, Redux, Express, Sequelize and Postgre. Also in the future i want to learn about mobile development 📱🖥️!
+-  🌱 I’m currently doing a bootcamp where i learn this stack!
 <div>
-  <img src="logos/sequelizeLogo.png" width="70" height="70" display="inline" margin-right="20"/>
   <img src="logos/JavascriptLogo.png" width="70" height="70" display="inline" margin="20"/>
+  <img src="logos/ReactLogo.png" width="70" height="70" display="inline" margin-right="20"/>
+  <img src="logos/ReduxLogo.png" width="70" height="70" display="inline" margin="20"/>
+  <img src="logos/ExpressLogo.png" width="70" height="70" display="inline" margin="20"/>
+  <img src="logos/PostgreSqlLogo.png" width="70" height="70" display="inline" margin="20"/>
+  <img src="logos/sequelizeLogo.png" width="70" height="70" display="inline" margin="20"/>
 </div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinbian)](https://github.com/joaquinbian/github-readme-stats)
 <!--

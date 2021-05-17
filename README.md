@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 I'm Joaquin.
 - 🔭 I’m currently working on a project called FinanceApp for the Henry bootcamp
--  🌱 I’m currently doing a bootcamp there i've learned this stack and i will be graduated as Full-Stack Developer!
+-  🌱 In Henry i've learned this stack and i will be graduated as Full-Stack Developer!
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="70" height="70" display="inline" margin="20px"/>
   
@@ -24,6 +24,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="70" height="70" display="inline" margin="20px"/>
 </p>
 
+<p>🧙‍♂️ I'm a Front-end lover, i like to work technologies like Javascript, React and Redux 🧙‍♂️ </p>
 <p>
   <h1 align="center">My github stats</h1>
   

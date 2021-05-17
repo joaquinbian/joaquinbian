@@ -19,7 +19,7 @@
   
   <img src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" width="70" height="70" display="inline" margin="20px"/>
   
-  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="70" height="70" display="inline" margin="20px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="70" height="70" display="inline" margin="20px"/>
 </div>
 
 

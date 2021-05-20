@@ -29,6 +29,7 @@
 
 - 🔜 I also want to learn new technologies such as React-Native, TypeScript and some mobile languages like Kotlin, Swift or Java📱
 
+- 👨‍💻  You can see my Portfolio here! https://joaquinbian.github.io/Portfolio/
 
 <p>
   <h1 align="center">My github stats</h1>

@@ -65,11 +65,11 @@
   🚀 Technologies implemented: React, Redux, CSS-Modules
   <br />
    <p>
-  <img src="screenshotsProjects/WheatherApp1.png" width="300" display="inline"/>
+  <img src="screenshotsProjects/WheatherApp1.png" width="250" display="inline"/>
     
-  <img src="screenshotsProjects/WheatherApp2.png" width="300" display="inline"/>
+  <img src="screenshotsProjects/WheatherApp2.png" width="250" display="inline"/>
   
-  <img src="screenshotsProjects/WheatherApp3.png" width="300" display="inline" />
+  <img src="screenshotsProjects/WheatherApp3.png" width="250" display="inline" />
   </p>
 </p>
 

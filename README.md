@@ -60,7 +60,7 @@
   </p>
   <hr/>
   <h3> 📌 Weather-App </h3>
-  <p>With this application you can search how is the weather of any city you want to go to. Also you can find a little bit of more thata if you only click on the name of the city!</p>
+  <p>With this application you can search how is the weather of any city you want to go to. Also you can find a little bit of more data if you only click on the name of the city!</p>
   <br />
   🚀 Technologies implemented: React, Redux, CSS-Modules
   <br />

@@ -58,7 +58,12 @@
   
   <img src="screenshotsProjects/Photo6.png" width="300" display="inline" />
   </p>
+  <hr/>
+  <h3> 📌 Weather-App </h3>
+  <p>With this application you can search how is the weather of any city you want to go to. Also you can find a little bit of more thata if you only click on the name of the city!</p>
 </p>
+
+
 
 
 <!--

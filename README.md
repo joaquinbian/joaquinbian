@@ -23,12 +23,13 @@
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="70" height="70" display="inline" margin="20px" alt="git"/>
 </p>
 
-- 🧙‍♂️ I'm a Front-end lover, i like to work technologies like Javascript, React and Redux 🧙‍♂️
+- 🧙‍♂️ I'm a Front-end lover, i like to work technologies like Javascript, React and Redux
 
-- 🤠I really enjoy to learn new things, and know that i can learn a lot of different stuff all the time keeps me motivated 🤠
+- 🤠 I really enjoy to learn new things, and know that i can learn a lot of different stuff all the time keeps me motivated 
 
-- 🔜 I also want to learn new technologies such as React-Native, TypeScript and some mobile languajes like Kotlin, Swift or Java 🔜 
+- 🔜 I also want to learn new technologies such as React-Native, TypeScript and some mobile languages like Kotlin, Swift or Java📱
 
+- 👨‍💻  You can see my Portfolio here! https://joaquinbian.github.io/Portfolio/
 
 <p>
   <h1 align="center">My github stats</h1>
@@ -40,15 +41,39 @@
 <p>
 <h1 align="center">My projects!</h1>
   <h3> 📌 Trip-Mate</h3>
-  <p>With this App, you can you can organice your trip and search information about most of the countries in the world! Furthermore you can sort them by population and alphabetically. Also you can filter the countries by their continent and you can add activities that you want to do in a specific country and filter them by activity.
+  <p>With this App, you can you can organice your trip and search information about most of the countries in the world! Furthermore you can sort them by population and alphabetically. Also you can filter the countries by their continent and you can add activities that you want to do in a specific country and filter them by activity. </p>
+  <br />
 🚀 Technologies implemented: React, Redux, CSS-Modules, Node-Express, Sequelize, PostgreSQL 
+  <br />
+  <p>
+  <img src="screenshotsProjects/LandingPagePhoto.png" width="300" display="inline"/>
+    
+  <img src="screenshotsProjects/Photo2.png" width="300" display="inline"/>
   
-  <img src="screenshotsProjects/LandingPagePhoto.png" width="300"/>
+  <img src="screenshotsProjects/Photo3.png" width="300" display="inline" />
   
-  <img src="screenshotsProjects/Photo1.png" width="300" />
+  <img src="screenshotsProjects/Photo4.png" width="300" display="inline" />
   
-
+  <img src="screenshotsProjects/Photo5.png" width="300" display="inline" />
+  
+  <img src="screenshotsProjects/Photo6.png" width="300" display="inline" />
+  </p>
+  <hr/>
+  <h3> 📌 Weather-App </h3>
+  <p>With this application you can search how is the weather of any city you want to go to. Also you can find a little bit of more thata if you only click on the name of the city!</p>
+  <br />
+  🚀 Technologies implemented: React, Redux, CSS-Modules
+  <br />
+   <p>
+  <img src="screenshotsProjects/WheatherApp1.png" width="300" display="inline"/>
+    
+  <img src="screenshotsProjects/WheatherApp2.png" width="300" display="inline"/>
+  
+  <img src="screenshotsProjects/WheatherApp3.png" width="300" display="inline" />
+  </p>
 </p>
+
+
 
 
 <!--

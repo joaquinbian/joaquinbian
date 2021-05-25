@@ -74,6 +74,11 @@
   </p>
 </p>
 
+<p>
+<h1>Contact</h1>
+<p>If you want to know more about me please let me know by contacting me by e-mai, it is joaquin.fidel.bianchi@gmail.com. Or you can also sending me a message by linkedIn, you can found me there by the name of <a href="">Joaquin Bianchi</a> or clicking on the link  </p>
+</p>
+
 
 
 

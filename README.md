@@ -29,7 +29,7 @@
 
 - 🔜 I also want to learn new technologies such as React-Native, TypeScript and some mobile languages like Kotlin, Swift or Java📱
 
-- 👨‍💻  You can see my Portfolio here! https://joaquinbian.github.io/Portfolio/
+- 👨‍💻  You can see my Portfolio <a href="https://joaquinbian.github.io/Portfolio/">here!</a>  
 
 <p>
   <h1 align="center">My github stats</h1>
@@ -61,6 +61,7 @@
   <hr/>
   <h3> 📌 Weather-App </h3>
   <p>With this application you can search how is the weather of any city you want to go to. Also you can find a little bit of more data if you only click on the name of the city!</p>
+  <p>You can see my application <a href="https://joaquinbian.github.io/WeatherApp">here</a>, i hope you like it! /</p>
   <br />
   🚀 Technologies implemented: React, & CSS-Modules
   <br />

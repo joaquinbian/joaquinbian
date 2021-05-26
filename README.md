@@ -1,5 +1,5 @@
 ### Hi there, my name is Joaquín 👋
-- 🔭 I’m currently working on a project called FinanceApp for the Henry bootcamp
+- 🔭 I’m currently working on a project called E-connomy for the Henry bootcamp
 -  🌱 There, i've learned this stack and i will be graduated as Full-Stack Developer!
 
 <p>

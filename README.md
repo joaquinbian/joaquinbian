@@ -1,6 +1,7 @@
 ### Hi there, my name is Joaquín 👋
 - 🔭 I’m currently working on a project called FinanceApp for the Henry bootcamp
 -  🌱 There, i've learned this stack and i will be graduated as Full-Stack Developer!
+
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="70" height="70" display="inline" margin="20px"/ alt="html">
   
@@ -74,9 +75,14 @@
   </p>
 </p>
 
-<p>
+
 <h1>Contact</h1>
-<p>If you want to know more about me please let me know by contacting me by e-mai, it is joaquin.fidel.bianchi@gmail.com. Or you can also sending me a message by linkedIn, you can found me there by the name of <a href="">Joaquin Bianchi</a> or clicking on the link  </p>
+<h3>If you want to know more about me please let me know by contacting me on:</h3>
+<p align="left">
+ 📫 e-mail: joaquin.fidel.bianchi@gmail.com
+  <p>
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30"/> <a href="https://www.linkedin.com/in/joaquin-bianchi-js/">Joaquin Bianchi</a>
+  </p>
 </p>
 
 

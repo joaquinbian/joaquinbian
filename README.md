@@ -79,7 +79,7 @@
 <h1 align="center">Contact</h1>
 <h3>If you want to know more about me please let me know by contacting me on:</h3>
 <p align="left">
- 📫 e-mail: joaquin.fidel.bianchi@gmail.com
+ 📫 e-mail: joacobian21gmail.com
   <p>
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30"/> <a href="https://www.linkedin.com/in/joaquin-bianchi-js/">Joaquin Bianchi</a>
   </p>

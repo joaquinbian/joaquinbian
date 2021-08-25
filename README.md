@@ -1,6 +1,6 @@
 ### Hi there, my name is Joaquín 👋
-- 🔭 I’m currently working on a project called E-connomy for the Henry bootcamp
--  🌱 There, i've learned this stack and i will be graduated as Full-Stack Developer!
+- 😎 I’m currently doing some courses and learning React Native and Typescript
+-  🌱 Also i graduated from Henry bootcamp! There, i've learned this stack and made two individual projects and a grupal project called e-connomy
 
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="70" height="70" display="inline" margin="20px"/ alt="html">
@@ -24,7 +24,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="70" height="70" display="inline" margin="20px" alt="git"/>
 </p>
 
-- 🧙‍♂️ I'm a Front-end lover, i like to work technologies like Javascript, React and Redux
+- 🧙‍♂️ I'm a Front-end lover, i like to work technologies like Javascript, React and Redux 
 
 - 🤠 I really enjoy to learn new things, and know that i can learn a lot of different stuff all the time keeps me motivated 
 

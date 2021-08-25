@@ -5,7 +5,7 @@
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="70" height="70" display="inline" margin="20px"/ alt="html">
   
-  <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="70" height="70" display="inline" margin="20px" alt="css"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="70" height="70" display="inline" margin="20px" alt="css"/>
 
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="70" height="70" display="inline" margin="20px" alt="javascript"/>
   

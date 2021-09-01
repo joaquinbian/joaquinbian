@@ -74,6 +74,8 @@
   <img src="screenshotsProjects/WheatherApp3.png" width="250" display="inline" />
   </p>
 </p>
+<hr/>
+<h3> 📌 Movies-App </h3>
 
 
 <h1 align="center">Contact</h1>

@@ -83,6 +83,16 @@
   <li>the top rated movies ⭐</li>
   <li>upcoming movies 🔜</li>
 </ul>
+<p>And also if you are curious and want to know more about a movie, there is a screen that show more information such as:</p>
+<ul>
+  <li>rating /10 🌠</li>
+  <li>release date 📆</li>
+  <li>review</li>
+  <li>genres</li>
+  <li>cast 🌠</li>
+</ul>
+<p>This app was made with React Native CLI (no expo) using themovieDB API, it also has a gradient that changes the background color depends on wich are the principal movie selected, here are some images.</p>
+<img src="screenshotsProjects/moviesApp1.png" width="50" display="inline"/>
 
 
 <h1 align="center">Contact</h1>

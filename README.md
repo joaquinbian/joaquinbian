@@ -1,10 +1,11 @@
 ### Hi there, my name is Joaquín 👋
-- 🔭 I’m currently working on a project called FinanceApp for the Henry bootcamp
--  🌱 There, i've learned this stack and i will be graduated as Full-Stack Developer!
+- 😎 I’m currently learning React Native and Typescript
+-  🌱 Also i graduated from Henry bootcamp! There, i've learned this stack and made two individual projects and a grupal project called e-connomy
+
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="70" height="70" display="inline" margin="20px"/ alt="html">
   
-  <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="70" height="70" display="inline" margin="20px" alt="css"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="70" height="70" display="inline" margin="20px" alt="css"/>
 
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="70" height="70" display="inline" margin="20px" alt="javascript"/>
   
@@ -18,18 +19,18 @@
   
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="70" height="70" display="inline" margin="20px" alt="postgreSql"/>
   
-  <img src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" width="70" height="70" display="inline" margin="20px" alt="sequelize"/>
+  <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="70" height="70" display="inline" margin="20px" alt="sequelize"/>
   
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="70" height="70" display="inline" margin="20px" alt="git"/>
 </p>
 
-- 🧙‍♂️ I'm a Front-end lover, i like to work technologies like Javascript, React and Redux
+- 🧙‍♂️ I'm a Front-end lover, i like to work technologies like Javascript, React and Redux 
 
 - 🤠 I really enjoy to learn new things, and know that i can learn a lot of different stuff all the time keeps me motivated 
 
-- 🔜 I also want to learn new technologies such as React-Native, TypeScript and some mobile languages like Kotlin, Swift or Java📱
+- 🔜 I also want to learn new technologies such as React-Native and TypeScript📱
 
-- 👨‍💻  You can see my Portfolio here! https://joaquinbian.github.io/Portfolio/
+- 👨‍💻  You can see my Portfolio <a href="https://joaquinbian.github.io/Portfolio/">here!</a>  
 
 <p>
   <h1 align="center">My github stats</h1>
@@ -60,16 +61,46 @@
   </p>
   <hr/>
   <h3> 📌 Weather-App </h3>
-  <p>With this application you can search how is the weather of any city you want to go to. Also you can find a little bit of more thata if you only click on the name of the city!</p>
+  <p>With this application you can search how is the weather of any city you want to go to. Also you can find a little bit of more data if you only click on the name of the city!</p>
+  <p>You can see my application <a href="https://joaquinbian.github.io/weatherApp/#/">here</a>, i hope you like it! </p>
   <br />
-  🚀 Technologies implemented: React, Redux, CSS-Modules
+  🚀 Technologies implemented: React, & CSS-Modules
   <br />
    <p>
-  <img src="screenshotsProjects/WheatherApp1.png" width="300" display="inline"/>
+  <img src="screenshotsProjects/WheatherApp1.png" width="250" display="inline"/>
     
-  <img src="screenshotsProjects/WheatherApp2.png" width="300" display="inline"/>
+  <img src="screenshotsProjects/WheatherApp2.png" width="250" display="inline"/>
   
-  <img src="screenshotsProjects/WheatherApp3.png" width="300" display="inline" />
+  <img src="screenshotsProjects/WheatherApp3.png" width="250" display="inline" />
+  </p>
+</p>
+<hr/>
+<h3> 📌 Movies-App </h3>
+<p>In this Mobile Application you can see the movies that:</p>
+<ul>
+  <li>are on the billboard 🎦</li>
+  <li>the most popular 🔝</li>
+  <li>the top rated movies ⭐</li>
+  <li>upcoming movies 🔜</li>
+</ul>
+<p>And also if you are curious and want to know more about a movie, there is a screen that show more information such as:</p>
+<ul>
+  <li>rating /10 🌠</li>
+  <li>release date 📆</li>
+  <li>review</li>
+  <li>genres</li>
+  <li>cast 🌠</li>
+</ul>
+<p>This app was made with React Native CLI (no expo) using themovieDB API, it also has a gradient that changes the background color depends on wich are the principal movie selected, here are some images.</p>
+<img src="screenshotsProjects/moviesApp1.png" width="50" display="inline"/>
+
+
+<h1 align="center">Contact</h1>
+<h3>If you want to know more about me please let me know by contacting me on:</h3>
+<p align="left">
+ 📫 e-mail: joacobian21gmail.com
+  <p>
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30"/> <a href="https://www.linkedin.com/in/joaquin-bianchi-js/">Joaquin Bianchi</a>
   </p>
 </p>
 

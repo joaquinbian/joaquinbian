@@ -76,6 +76,13 @@
 </p>
 <hr/>
 <h3> 📌 Movies-App </h3>
+<p>In this Mobile Application you can see the movies that:</p>
+<ul>
+  <li>are on the billboard 🎦</li>
+  <li>the most popular 🔝</li>
+  <li>the top rated movies ⭐</li>
+  <li>upcoming movies 🔜</li>
+</ul>
 
 
 <h1 align="center">Contact</h1>

@@ -85,7 +85,7 @@
 </ul>
 <p>And also if you are curious and want to know more about a movie, there is a screen that show more information such as:</p>
 <ul>
-  <li>rating /10 🌠</li>
+  <li>rating /10 ⭐ </li>
   <li>release date 📆</li>
   <li>review</li>
   <li>genres</li>

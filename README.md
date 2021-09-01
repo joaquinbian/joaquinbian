@@ -91,7 +91,8 @@
   <li>genres</li>
   <li>cast 🌠</li>
 </ul>
-<p>This app was made with React Native CLI (no expo) using themovieDB API, it also has a gradient that changes the background color depends on wich are the principal movie selected, here are some images.</p>
+<p>This app was made with React Native CLI (no expo) using themovieDB API, it also has a gradient that changes the background color depends on wich are the principal movie selected. In the future i want to make some more  here are some images.</p>
+
 <img src="screenshotsProjects/moviesApp1.png" width="50" display="inline"/>
 
 

@@ -93,7 +93,7 @@
 </ul>
 <p>This app was made with React Native CLI (no expo) using themovieDB API, it also has a gradient that changes the background color depends on wich are the principal movie selected. In the future i want to make some more  here are some images.</p>
 
-<img src="screenshotsProjects/moviesApp1.png" width="50" display="inline"/>
+<img src="screenshotsProjects/moviesApp1.png" width="150" heigth="300" display="inline"/>
 
 
 <h1 align="center">Contact</h1>

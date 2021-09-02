@@ -92,11 +92,15 @@
   <li>cast 🌠</li>
 </ul>
 <p>This app was made with React Native CLI (no expo) and Typescript. I used themovieDB API, it also has a gradient that changes the background color depends on wich is the principal movie selected. In the future i want to make some more  here are some images.</p>
-
+<p>
 <img src="screenshotsProjects/moviesApp1.png" width="150" heigth="300" display="inline"/>
+<img src="screenshotsProjects/moviesApp2.png" width="150" heigth="300" display="inline"/>
 <img src="screenshotsProjects/moviesApp3.png" width="150" heigth="300" display="inline"/>
 <img src="screenshotsProjects/moviesApp4.png" width="150" heigth="300" display="inline"/>
-
+<img src="screenshotsProjects/moviesApp5.png" width="150" heigth="300" display="inline"/>
+<img src="screenshotsProjects/moviesApp6.png" width="150" heigth="300" display="inline"/>
+  
+</p>
 
 <h1 align="center">Contact</h1>
 <h3>If you want to know more about me please let me know by contacting me on:</h3>

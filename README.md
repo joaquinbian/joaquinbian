@@ -92,14 +92,14 @@
   <li>cast 🌠</li>
 </ul>
 <p>This app was made with React Native CLI (no expo) and Typescript. I used themovieDB API, it also has a gradient that changes the background color depends on wich is the principal movie selected. In the future i am going to add more features. Here are some images:</p>
-<p>
+<div display="flex" justifyContent="space-around">
 <img src="screenshotsProjects/moviesApp1.png" width="150" heigth="300" display="inline"/>
 <img src="screenshotsProjects/moviesApp2.png" width="150" heigth="300" display="inline"/>
 <img src="screenshotsProjects/moviesApp3.png" width="150" heigth="300" display="inline"/>
 <img src="screenshotsProjects/moviesApp4.png" width="150" heigth="300" display="inline"/>
 <img src="screenshotsProjects/moviesApp5.png" width="150" heigth="300" display="inline"/>
 <img src="screenshotsProjects/moviesApp6.png" width="150" heigth="300" display="inline"/>  
-</p>
+</div>
 </hr>
 <h3>📌 Pokedex</h3>
 <p> App made with React Native, some of the features are: </p>

@@ -99,6 +99,7 @@
 <img src="screenshotsProjects/moviesApp4.png" width="150" heigth="300" display="inline"/>
 <img src="screenshotsProjects/moviesApp5.png" width="150" heigth="300" display="inline"/>
 <img src="screenshotsProjects/moviesApp6.png" width="150" heigth="300" display="inline"/>
+<img src="https://media.giphy.com/media/JZIZwsB4qW5MDGvKZN/giphy.gif?cid=790b7611671dc4f8693f1a2d9e127b4c640d9660c42ab7a1&rid=giphy.gif&ct=g" width="150" heigth="300" display="inline"/>
   
 </p>
 

@@ -91,18 +91,25 @@
   <li>genres</li>
   <li>cast 🌠</li>
 </ul>
-<p>This app was made with React Native CLI (no expo) and Typescript. I used themovieDB API, it also has a gradient that changes the background color depends on wich is the principal movie selected. In the future i want to make some more  here are some images.</p>
+<p>This app was made with React Native CLI (no expo) and Typescript. I used themovieDB API, it also has a gradient that changes the background color depends on wich is the principal movie selected. In the future i am going to add more features. Here are some images:</p>
 <p>
 <img src="screenshotsProjects/moviesApp1.png" width="150" heigth="300" display="inline"/>
 <img src="screenshotsProjects/moviesApp2.png" width="150" heigth="300" display="inline"/>
 <img src="screenshotsProjects/moviesApp3.png" width="150" heigth="300" display="inline"/>
 <img src="screenshotsProjects/moviesApp4.png" width="150" heigth="300" display="inline"/>
 <img src="screenshotsProjects/moviesApp5.png" width="150" heigth="300" display="inline"/>
-<img src="screenshotsProjects/moviesApp6.png" width="150" heigth="300" display="inline"/>
-
-  
+<img src="screenshotsProjects/moviesApp6.png" width="150" heigth="300" display="inline"/>  
 </p>
-
+</hr>
+<h3>📌 Pokedex</h3>
+<p> App made with React Native, some of the features are: </p>
+<ul>
+  <li>See a list of all pokemons in home screen 🔝</li>
+  <li>Filter pokemons by name in search screen 🔎</li>
+  <li>See details of each pokemons like habilities, stats, moves, etc 🎮</li>
+</ul>
+<p>This app was made with React Native CLI (no expo) and Typescript. I used pokeapi API to fetch data and react-native-image-colors, a package that fetch prominent colors form an image to set the background of each pokemon. Here are some videos:</p>
+<img src="https://media.giphy.com/media/JZIZwsB4qW5MDGvKZN/giphy.gif?cid=790b7611671dc4f8693f1a2d9e127b4c640d9660c42ab7a1&rid=giphy.gif&ct=g" display="inline" width="180" height="200"/>
 <h1 align="center">Contact</h1>
 <h3>If you want to know more about me please let me know by contacting me on:</h3>
 <p align="left">

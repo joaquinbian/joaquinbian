@@ -109,7 +109,7 @@
   <li>See details of each pokemons like habilities, stats, moves, etc 🎮</li>
 </ul>
 <p>This app was made with React Native CLI (no expo) and Typescript. I used pokeapi API to fetch data and react-native-image-colors, a package that fetch prominent colors form an image to set the background of each pokemon. Here are some videos:</p>
-<img src="https://media.giphy.com/media/JZIZwsB4qW5MDGvKZN/giphy.gif?cid=790b7611671dc4f8693f1a2d9e127b4c640d9660c42ab7a1&rid=giphy.gif&ct=g" display="inline" width="180" height="200"/>
+<img src="https://media.giphy.com/media/JZIZwsB4qW5MDGvKZN/giphy.gif?cid=790b7611671dc4f8693f1a2d9e127b4c640d9660c42ab7a1&rid=giphy.gif&ct=g" display="inline" width="180" height="360"/>
 <h1 align="center">Contact</h1>
 <h3>If you want to know more about me please let me know by contacting me on:</h3>
 <p align="left">

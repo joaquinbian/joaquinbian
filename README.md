@@ -110,6 +110,7 @@
 </ul>
 <p>This app was made with React Native CLI (no expo) and Typescript. I used pokeapi API to fetch data and react-native-image-colors, a package that fetch prominent colors form an image to set the background of each pokemon. Here are some videos:</p>
 <img src="https://media.giphy.com/media/JZIZwsB4qW5MDGvKZN/giphy.gif?cid=790b7611671dc4f8693f1a2d9e127b4c640d9660c42ab7a1&rid=giphy.gif&ct=g" display="inline" width="200" height="400"/>
+<img src="https://media.giphy.com/media/zixHY3z8DUDV1TwP5K/giphy.gif?cid=790b7611f5baec32a1a34d6b65a959a59b4410b9d1738e84&rid=giphy.gif&ct=g" display="inline" width="200" height="400"/>
 <h1 align="center">Contact</h1>
 <h3>If you want to know more about me please let me know by contacting me on:</h3>
 <p align="left">

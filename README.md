@@ -1,6 +1,6 @@
 ### Hi there, my name is Joaquín 👋
 - 😎 I’m currently learning React Native and Typescript
--  🌱 Also i graduated from Henry bootcamp! There, i've learned this stack and made two individual projects and a grupal project called e-connomy
+-  🌱 Also I graduated from Henry bootcamp! There, I've learned this technologies and made two individual projects and a grupal project called e-connomy
 
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="70" height="70" display="inline" margin="20px"/ alt="html">

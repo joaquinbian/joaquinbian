@@ -93,12 +93,8 @@
 </ul>
 <p>This app was made with React Native CLI (no expo) and Typescript. I used themovieDB API, it also has a gradient that changes the background color depends on wich is the principal movie selected. In the future i am going to add more features. Here are some images:</p>
 <p>
-<img src="screenshotsProjects/moviesApp1.png" width="150" heigth="300" display="inline"/>
-<img src="screenshotsProjects/moviesApp2.png" width="150" heigth="300" display="inline"/>
-<img src="screenshotsProjects/moviesApp3.png" width="150" heigth="300" display="inline"/>
-<img src="screenshotsProjects/moviesApp4.png" width="150" heigth="300" display="inline"/>
-<img src="screenshotsProjects/moviesApp5.png" width="150" heigth="300" display="inline"/>
-<img src="screenshotsProjects/moviesApp6.png" width="150" heigth="300" display="inline"/>  
+<img src="https://media.giphy.com/media/i2zJYKX8fGhUbUlGxI/giphy.gif" width="200" heigth="400" display="inline"/>
+ 
 </p>
 </hr>
 <h3>📌 Pokedex</h3>

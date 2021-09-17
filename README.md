@@ -94,7 +94,7 @@
 <p>This app was made with React Native CLI (no expo) and Typescript. I used themovieDB API, it also has a gradient that changes the background color depends on wich is the principal movie selected. In the future i am going to add more features. Here are some images:</p>
 <p>
 <img src="https://media.giphy.com/media/T5wbObJ6g6V8D7NeFL/giphy.gif?cid=790b76118973fc6e4fdf5ac27fc7a4cff72afe86869951a6&rid=giphy.gif&ct=g" width="250" heigth="500" display="inline"/>
-  <img src="https://giphy.com/gifs/react-reactnative-dev-EJhfCUZabaC5UNXZg8?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width="250" heigth="500" display="inline"/>
+  <img src="https://media.giphy.com/media/EJhfCUZabaC5UNXZg8/giphy.gif" width="250" heigth="500" display="inline"/>
  
 </p>
 </hr>

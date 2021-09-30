@@ -1,5 +1,5 @@
 ### Hi there, my name is Joaquín 👋
-- 😎 I’m currently learning React Native and Typescript
+- I’m currently learning React Native and Typescript
 -  🌱 Also I graduated from Henry bootcamp! There, I've learned this technologies and made two individual projects and a grupal project called e-connomy
 
 <p>

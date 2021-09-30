@@ -76,18 +76,18 @@
 <h3> 📌 Movies-App </h3>
 <p>In this Mobile Application you can see the movies that:</p>
 <ul>
-  <li>are on the billboard 🎦</li>
-  <li>the most popular 🔝</li>
-  <li>the top rated movies ⭐</li>
-  <li>upcoming movies 🔜</li>
+  <li>are on the billboard</li>
+  <li>the most popular</li>
+  <li>the top rated movies</li>
+  <li>upcoming movies</li>
 </ul>
 <p>And also if you are curious and want to know more about a movie, there is a screen that show more information such as:</p>
 <ul>
-  <li>rating /10 ⭐ </li>
-  <li>release date 📆</li>
+  <li>rating /10 </li>
+  <li>release date</li>
   <li>review</li>
   <li>genres</li>
-  <li>cast 🌠</li>
+  <li>cast</li>
 </ul>
 <p>This app was made with React Native CLI (no expo) and Typescript. I used themovieDB API, it also has a gradient that changes the background color depends on wich is the principal movie selected. In the future i am going to add more features. Here are some images:</p>
 <p>
@@ -99,8 +99,8 @@
 <h3>📌 Pokedex</h3>
 <p> App made with React Native, some of the features are: </p>
 <ul>
-  <li>See a list of all pokemons in home screen 🔝</li>
-  <li>Filter pokemons by name in search screen 🔎</li>
+  <li>See a list of all pokemons in home screen</li>
+  <li>Filter pokemons by name in search screen</li>
   <li>See details of each pokemons like habilities, stats, moves, etc 🎮</li>
 </ul>
 <p>This app was made with React Native CLI (no expo) and Typescript. I used pokeapi API to fetch data and react-native-image-colors, a package that fetch prominent colors form an image to set the background of each pokemon. Here are some videos:</p>

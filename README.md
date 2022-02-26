@@ -9,6 +9,9 @@
 
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="70" height="70" display="inline" margin="20px" alt="javascript"/>
   
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="70" height="70" display="inline" margin="20px" alt="javascript"/>
+  
+  
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="70" height="70" display="inline" margin-right="20px" alt="react"/>
   
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="70" height="70" display="inline" margin="20px" alt="redux" />

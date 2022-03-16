@@ -42,7 +42,7 @@
 
 <p>
 <h1 align="center">My projects!</h1>
-  <h3> 📌 Countries-Mate</h3>
+  <h3> 📌 Countries-App</h3>
   <p>With this App, you can you can organice your trip and search information about most of the countries in the world! Furthermore you can sort them by population and alphabetically. Also you can filter the countries by their continent and you can add activities that you want to do in a specific country and filter them by activity. </p>
   <br />
 🚀 Technologies implemented: React, Redux, CSS-Modules, Node-Express, Sequelize, PostgreSQL 
@@ -92,7 +92,7 @@
   <li>genres</li>
   <li>cast</li>
 </ul>
-<p>This app was made with React Native CLI (no expo) and Typescript. I used themovieDB API, it also has a gradient that changes the background color depends on wich is the principal movie selected. In the future i am going to add more features. Here are some images:</p>
+<p>This app was made with React Native CLI and Typescript. I used themovieDB API, it also has a gradient that changes the background color depends on wich is the principal movie selected. In the future i am going to add more features. Here are some images:</p>
 <p>
 <img src="https://media.giphy.com/media/T5wbObJ6g6V8D7NeFL/giphy.gif?cid=790b76118973fc6e4fdf5ac27fc7a4cff72afe86869951a6&rid=giphy.gif&ct=g" width="250" heigth="500" display="inline"/>
   <img src="https://media.giphy.com/media/EJhfCUZabaC5UNXZg8/giphy.gif" width="250" heigth="500" display="inline"/>
@@ -106,7 +106,7 @@
   <li>Filter pokemons by name in search screen</li>
   <li>See details of each pokemons like habilities, stats, moves, etc 🎮</li>
 </ul>
-<p>This app was made with React Native CLI (no expo) and Typescript. I used pokeapi API to fetch data and react-native-image-colors, a package that fetch prominent colors form an image to set the background of each pokemon. Here are some videos:</p>
+<p>This app was made with React Native CLI and Typescript. I used pokeapi API to fetch data and react-native-image-colors, a package that fetch prominent colors form an image to set the background of each pokemon. Here are some videos:</p>
 
 <div >
 <img src="https://media.giphy.com/media/JZIZwsB4qW5MDGvKZN/giphy.gif?cid=790b7611671dc4f8693f1a2d9e127b4c640d9660c42ab7a1&rid=giphy.gif&ct=g" display="inline" width="250" height="500"/>

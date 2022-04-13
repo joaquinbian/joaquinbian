@@ -31,7 +31,6 @@
 
 - 🤠 I really enjoy to learn new things, and know that I can learn a lot of different stuff all the time keeps me motivated 
 
-- 👨‍💻  You can see my Portfolio <a href="https://joaquinbian.github.io/Portfolio/">here!</a>  
 
 <p>
   <h1 align="center">My github stats</h1>

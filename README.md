@@ -46,7 +46,7 @@
   <h3> 📌 Countries-App</h3>
   <p>With this App, you can you can organice your trip and search information about most of the countries in the world! Furthermore you can sort them by population and alphabetically. Also you can filter the countries by their continent and you can add activities that you want to do in a specific country and filter them by activity. </p>
   <br />
-🚀 Technologies implemented: React, Redux, CSS-Modules, Node-Express, Sequelize, PostgreSQL 
+🚀 Technologies implemented: React, Redux, CSS-Modules, Express, Sequelize and PostgreSQL 
   <br />
   <p>
   <img src="screenshotsProjects/LandingPagePhoto.png" width="300" display="inline"/>
@@ -66,7 +66,7 @@
   <p>With this application you can search how is the weather of any city you want to go to. Also you can find a little bit of more data if you only click on the name of the city!</p>
   <p>You can see my application <a href="https://joaquinbian.github.io/weatherApp/#/">here</a>, i hope you like it! </p>
   <br />
-  🚀 Technologies implemented: React, & CSS-Modules
+  🚀 Technologies implemented: React and CSS-Modules
   <br />
    <p>
   <img src="screenshotsProjects/WheatherApp1.png" width="250" display="inline"/>
@@ -117,7 +117,7 @@
 <h1 align="center">Contact</h1>
 <h3>If you want to know more about me please let me know by contacting me on:</h3>
 <p align="left">
- 📫 e-mail: joacobian21gmail.com
+ 📫 e-mail: joacobian21@gmail.com
   <p>
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30"/> <a href="https://www.linkedin.com/in/joaquin-bianchi-js/">Joaquin Bianchi</a>
   </p>

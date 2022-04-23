@@ -19,7 +19,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="70" height="70" display="inline" margin="20px" alt="node"/>
   
   
-  <div background-color="red" width="32" height="43">
+  <div style={background-color:"red"} width="32" height="43">
 
 </div>
   <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="70" height="70" display="inline" margin="20px" alt="express" />

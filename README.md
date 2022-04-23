@@ -18,7 +18,7 @@
   
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="70" height="70" display="inline" margin="20px" alt="node"/>
   
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="70" height="70" display="inline" margin="20px" alt="express"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="70" height="70" display="inline" margin="20px" alt="express" style={{background-color:"#fff"}}/>
   
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="70" height="70" display="inline" margin="20px" alt="postgreSql"/>
   

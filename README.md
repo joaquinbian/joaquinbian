@@ -1,6 +1,5 @@
 ### Hi there, my name is Joaquín 👋
 <!-- I’m currently learning GraphQL -->
--  🌱 Also I graduated from Henry bootcamp! There, I've learned this technologies and made two individual projects and a grupal project called e-connomy
 
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="70" height="70" display="inline" margin="20px"/ alt="html">
@@ -29,9 +28,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="70" height="70" display="inline" margin="20px" alt="git"/>
 </p>
 
-- 🧙‍♂️ I'm a Front-end lover, I like to work technologies like Javascript, React and Redux 
-
-- 🤠 I really enjoy to learn new things, and know that I can learn a lot of different stuff all the time keeps me motivated 
 
 
 <p>

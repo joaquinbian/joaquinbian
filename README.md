@@ -37,6 +37,8 @@
   
 </p>
 
+<!-- 
+
 <p>
 <h1 align="center">My projects!</h1>
   <h3> 📌 Countries-App</h3>
@@ -119,7 +121,7 @@
   </p>
 </p>
 
-
+-->
 
 
 <!--

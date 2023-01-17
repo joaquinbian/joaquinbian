@@ -29,11 +29,21 @@
 </p>
 
 
-
+<hr />
 <p>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinbian)](https://github.com/joaquinbian/github-readme-stats)
   
+</p>
+<hr />
+
+<h1 align="center">Contact</h1>
+<h3>If you want to know more about me please let me know by contacting me on:</h3>
+<p align="left">
+ 📫 e-mail: joacobian21@gmail.com
+  <p>
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30"/> <a href="https://www.linkedin.com/in/joaquin-bianchi-js/">Joaquin Bianchi</a>
+  </p>
 </p>
 
 <!-- 
@@ -111,14 +121,7 @@
 <img src="https://media.giphy.com/media/zixHY3z8DUDV1TwP5K/giphy.gif?cid=790b7611f5baec32a1a34d6b65a959a59b4410b9d1738e84&rid=giphy.gif&ct=g" display="inline" width="250" height="500"/>
   <img src="https://media.giphy.com/media/Z7GNvo1eKg3jBuWlmy/giphy.gif?cid=790b761183724a1461bff762326fa3bb7ad66dbda5bb7d7a&rid=giphy.gif&ct=g" display="inline" width="250" height="500"/>
 </div>
-<h1 align="center">Contact</h1>
-<h3>If you want to know more about me please let me know by contacting me on:</h3>
-<p align="left">
- 📫 e-mail: joacobian21@gmail.com
-  <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30"/> <a href="https://www.linkedin.com/in/joaquin-bianchi-js/">Joaquin Bianchi</a>
-  </p>
-</p>
+
 
 -->
 

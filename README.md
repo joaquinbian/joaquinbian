@@ -31,7 +31,6 @@
 
 
 <p>
-  <h1 align="center">My github stats</h1>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinbian)](https://github.com/joaquinbian/github-readme-stats)
   

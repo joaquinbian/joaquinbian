@@ -30,12 +30,6 @@
 
 
 <hr />
-<p>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinbian)](https://github.com/joaquinbian/github-readme-stats)
-  
-</p>
-<hr />
 
 <h1 align="center">Contact</h1>
 <h3>If you want to know more about me please let me know by contacting me on:</h3>
@@ -47,6 +41,17 @@
 </p>
 
 <!-- 
+
+
+
+<hr />
+<p>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinbian)](https://github.com/joaquinbian/github-readme-stats)
+  
+</p>
+
+
 
 <p>
 <h1 align="center">My projects!</h1>

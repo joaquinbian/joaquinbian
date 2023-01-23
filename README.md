@@ -1,6 +1,18 @@
 ### Hi there, my name is Joaquín 👋
 <!-- I’m currently learning GraphQL -->
 
+
+
+<h1 align="center">Contact</h1>
+<h3>If you want to know more about me please let me know by contacting me on:</h3>
+<p align="left">
+ 📫 e-mail: joacobian21@gmail.com
+  <p>
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30"/> <a href="https://www.linkedin.com/in/joaquin-bianchi-js/">Joaquin Bianchi</a>
+  </p>
+</p>
+
+<!-- 
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="70" height="70" display="inline" margin="20px"/ alt="html">
   
@@ -30,18 +42,6 @@
 
 
 <hr />
-
-<h1 align="center">Contact</h1>
-<h3>If you want to know more about me please let me know by contacting me on:</h3>
-<p align="left">
- 📫 e-mail: joacobian21@gmail.com
-  <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30"/> <a href="https://www.linkedin.com/in/joaquin-bianchi-js/">Joaquin Bianchi</a>
-  </p>
-</p>
-
-<!-- 
-
 
 
 <hr />

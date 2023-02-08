@@ -2,8 +2,8 @@
 <!-- I’m currently learning GraphQL -->
 
 
+### profile in progress... 🔧
 
-<h1 align="center">Contact</h1>
 <h3>If you want to know more about me please let me know by contacting me on:</h3>
 <p align="left">
   <p>
@@ -12,7 +12,7 @@
 </p>
 
 <!-- 
-
+<h1 align="center">Contact</h1>
  📫 e-mail: joacobian21@gmail.com
 
 <p>

@@ -2,7 +2,7 @@
 <!-- I’m currently learning GraphQL -->
 
 
-### profile in progress... 🔧
+### profile in progress... 
 
 <h3>If you want to know more about me please let me know by contacting me on:</h3>
 <p align="left">

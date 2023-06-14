@@ -3,6 +3,10 @@
 
 
 ### profile in progress... 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinbian&hide_progress=true)
+
 <!-- 
 
 <h3>If you want to know more about me please let me know by contacting me on:</h3>

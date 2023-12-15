@@ -1,9 +1,9 @@
 <!-- I’m currently learning GraphQL -->
 
 
+### Hi there, my name is Joaquín 👋
 
 <!-- 
-### Hi there, my name is Joaquín 👋
 
 ### profile in progress... 
 

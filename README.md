@@ -1,14 +1,14 @@
-### Hi there, my name is Joaquín 👋
 <!-- I’m currently learning GraphQL -->
 
+
+
+<!-- 
+### Hi there, my name is Joaquín 👋
 
 ### profile in progress... 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinbian)
-
-<!-- 
-
 <h3>If you want to know more about me please let me know by contacting me on:</h3>
 <p align="left">
   <p>

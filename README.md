@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joaquin</h1>
 <h3 align="center">A passionate programmer from Argentina</h3>
 
-- 🌱 I’m currently learning **Backend (Java, Golang)**
+- 🌱 I’m currently learning **Backend development**
 
 
 
